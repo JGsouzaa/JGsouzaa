@@ -1,5 +1,5 @@
 <div><br>
-  ### Welcome to my github profile  
+  Welcome to my github profile  
   <img align="right" alt="JG-gif" height="150" style="border-radius:50px;" src="https://github.com/JGsouzaa/JGsouzaa/blob/main/picasion.com_7ee3b6d759a244d063fb29152247cc1e.gif">
 </div>
 
