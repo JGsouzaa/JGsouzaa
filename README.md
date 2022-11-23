@@ -1,16 +1,19 @@
 <div><br>
-  Welcome to my github profile
     <p>
+      Welcome to my github profile
       Here I post some stuff that I code.
     </p>
-  Here I post some stuff that I code.
-  At the moment I'm looking for opportunities in data science field and learning more about machine learning and statistical learning;
-  I have some experience with low code such as C;
-  Have experience with databases using SQL, mySQL, ABAP, PostgreeSQL, SAP HANA, HANACLOUD...;
-  Have experience with Python Development (Acessing API, opening files, libraries like Tkinter, Pandas, NumPy, SciPy, MatplotLib, Seaborn, TensorFlow...);
-  Have experience with Javascript (Using to develop webapplications using SAPFIORI and SAPUI5);
-  Have experience with Suport, Development and documentation in SAP ABAP;
-  Have some experience with another languages such as HTML, XML, CSS and VBA.
+    <p>
+    At the moment I'm looking for opportunities in data science field and learning more about machine learning and statistical learning;
+    </p>
+      <ul>
+        <li> I have some experience with low code such as C; </li>
+        <li> Have experience with databases using SQL, mySQL, ABAP, PostgreeSQL, SAP HANA, HANACLOUD...; </li>
+        <li> Have experience with Python Development (Acessing API, opening files, libraries like Tkinter, Pandas, NumPy, SciPy, MatplotLib, Seaborn, TensorFlow...); </li>
+        <li> Have experience with Javascript (Using to develop webapplications using SAPFIORI and SAPUI5); </li>
+        <li> Have experience with Suport, Development and documentation in SAP ABAP; </li>
+        <li> Have some experience with another languages such as HTML, XML, CSS and VBA. </li>
+    </p>    
   <img align="right" alt="JG-gif" height="150" style="border-radius:50px;" src="https://github.com/JGsouzaa/JGsouzaa/blob/main/picasion.com_7ee3b6d759a244d063fb29152247cc1e.gif">
 </div>
 
