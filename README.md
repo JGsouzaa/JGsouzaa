@@ -1,5 +1,13 @@
 <div><br>
-  Welcome to my github profile  
+  Welcome to my github profile
+  Here I post some stuff that I code.
+  At the moment I'm looking for opportunities in data science field and learning more about machine learning and statistical learning;
+  I have some experience with low code such as C;
+  Have experience with databases using SQL, mySQL, ABAP, PostgreeSQL, SAP HANA, HANACLOUD...;
+  Have experience with Python Development (Acessing API, opening files, libraries like Tkinter, Pandas, NumPy, SciPy, MatplotLib, Seaborn, TensorFlow...);
+  Have experience with Javascript (Using to develop webapplications using SAPFIORI and SAPUI5);
+  Have experience with Suport, Development and documentation in SAP ABAP;
+  Have some experience with another languages such as HTML, XML, CSS and VBA.
   <img align="right" alt="JG-gif" height="150" style="border-radius:50px;" src="https://github.com/JGsouzaa/JGsouzaa/blob/main/picasion.com_7ee3b6d759a244d063fb29152247cc1e.gif">
 </div>
 
