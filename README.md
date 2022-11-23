@@ -1,5 +1,8 @@
 <div><br>
   Welcome to my github profile
+    <p>
+      Here I post some stuff that I code.
+    </p>
   Here I post some stuff that I code.
   At the moment I'm looking for opportunities in data science field and learning more about machine learning and statistical learning;
   I have some experience with low code such as C;
