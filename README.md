@@ -7,7 +7,7 @@
     At the moment I'm looking for opportunities in data science field and learning more about machine learning and statistical learning;
     </p>
       <ul>
-        <li> I DON'T UPDATE REGULARLY</li>
+        <li> I DON'T UPDATE THIS REGULARLY</li>
         <li> I have some experience with low code such as C; </li>
         <li> Have experience with databases using SQL, mySQL, ABAP, PostgreeSQL, SAP HANA, HANACLOUD...; </li>
         <li> Have experience with Python Development (Acessing API, opening files, libraries like Tkinter, Pandas, NumPy, SciPy, MatplotLib, Seaborn, TensorFlow...); </li>
