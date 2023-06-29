@@ -7,6 +7,7 @@
     </p>
       <ul>
         <li> My repositories are not 100% complete and have few of many things I code and study</li>
+        <li> If I don't know how to solve something, I learn when I'm solving it</li>
         <li> There are several areas of knowledge, but only one nature </li>
     </p>    
   <img align="right" alt="JG-gif" height="150" style="border-radius:50px;" src="https://github.com/JGsouzaa/JGsouzaa/blob/main/picasion.com_7ee3b6d759a244d063fb29152247cc1e.gif">
