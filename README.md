@@ -10,10 +10,10 @@
         <li> If I don't know how to solve something, I learn when I'm solving it</li>
         <li> There are several areas of knowledge, but only one nature </li>
     </p>    
-  <img align="right" alt="JG-gif" height="150" style="border-radius:50px;" src="https://github.com/JGsouzaa/JGsouzaa/blob/main/picasion.com_7ee3b6d759a244d063fb29152247cc1e.gif">
+<!--  <img align="right" alt="JG-gif" height="150" style="border-radius:50px;" src="https://github.com/JGsouzaa/JGsouzaa/blob/main/picasion.com_7ee3b6d759a244d063fb29152247cc1e.gif">
 </div>
 
-##
+<!--##
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="JG-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -25,7 +25,7 @@
   <img align="center" alt="JG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JG-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
-
+-->
 ##
 
 <div align="center">
