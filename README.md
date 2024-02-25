@@ -3,11 +3,11 @@
       Welcome to my github profile
     </p>
     <p>
-        I'm just a regular human that likes to learn new things and solve problems
+        I'm just a regular human (or not?) that likes to learn new things and solve problems
     </p>
       <ul>
-        <li> My repositories are not 100% complete and have few of many things I code and study</li>
-        <li> If I don't know how to solve something, I learn when I'm solving it</li>
+        <li> If you reached this page congratulations and wellcome, but don't expect nothing so common</li>
+        <li> It's going to the moon (If you understand this, congratulations again) </li>
         <li> There are several areas of knowledge, but only one nature </li>
     </p>    
 <!--  <img align="right" alt="JG-gif" height="150" style="border-radius:50px;" src="https://github.com/JGsouzaa/JGsouzaa/blob/main/picasion.com_7ee3b6d759a244d063fb29152247cc1e.gif">
