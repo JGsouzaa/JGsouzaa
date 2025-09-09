@@ -3,12 +3,9 @@
       Welcome to my github profile
     </p>
     <p>
-        I'm just a regular human (or not?) that likes to learn new things and solve problems
     </p>
       <ul>
-        <li> If you reached this page congratulations and wellcome, but don't expect nothing so common</li>
-        <li> There are several areas of knowledge, but only one nature </li>
-        <li> Maybe you are here for a reason?! (If you understand this, congratulations again) </li>      
+        <li> There are several areas of knowledge, but only one nature </li>     
     </p>    
 <!--  <img align="right" alt="JG-gif" height="150" style="border-radius:50px;" src="https://github.com/JGsouzaa/JGsouzaa/blob/main/picasion.com_7ee3b6d759a244d063fb29152247cc1e.gif">
 </div>
